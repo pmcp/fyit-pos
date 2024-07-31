@@ -31,9 +31,9 @@ services:
       DB_CLIENT: "pg"
       DB_HOST: "database"
       DB_PORT: "5432"
-      DB_DATABASE: "fyit-pos-postgresql-1"
-      DB_USER: "fyit-pos-postgresql-1"
-      DB_PASSWORD: "fyit-pos-postgresql-1"
+      DB_DATABASE: "fyitposdirectus1"
+      DB_USER: "fyitposdirectus1"
+      DB_PASSWORD: "fyitposdirectus1"
 
       CACHE_ENABLED: "true"
       CACHE_AUTO_PURGE: "true"
